@@ -1,0 +1,8 @@
+reddit-persona-generator/
+├── reddit_persona.py
+├── config.ini
+├── requirements.txt
+├── README.md
+└── sample_outputs/
+    ├── reddit_persona_kojied.txt
+        └── reddit_persona_Hungry-Move-6603.txt
